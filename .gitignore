@@ -1,7 +1,5 @@
 tmp/toto.txt
-*.txt
-tmp/machin/bidule
-*.obj
-*.truc
-*/b/j
 */Ck
+*.txt
+*.obj
+*/b/j
