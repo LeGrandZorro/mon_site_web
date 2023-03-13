@@ -1,6 +1,2 @@
-*/Ck
-*.obj
-*/b/j
 *.txt
-tmp/toto.txt
-/tmp/toto
+*/kaka/*
