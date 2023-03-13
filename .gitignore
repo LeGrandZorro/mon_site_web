@@ -1,5 +1,7 @@
-tmp/toto.txt
 */Ck
 *.txt
 *.obj
 */b/j
+*.txt
+tmp/toto.txt
+/tmp/toto
